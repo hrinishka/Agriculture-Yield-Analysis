@@ -5,8 +5,8 @@ Week 3 assignment 1- Python
 This repository contains the Machine Learning assignment based on Agriculture yield Analytics.
 
 ##Files
-agriculture_yield_dataset.csv
-Assignment 1: week 3.ipynb
+-agriculture_yield_dataset.csv
+-Assignment 1: week 3.ipynb
 
 ##Author
 Hrinishka
